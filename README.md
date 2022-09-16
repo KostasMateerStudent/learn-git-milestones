@@ -278,7 +278,7 @@ Item # | Description | Completed
 2b | Link to `commit #2 from Github Desktop` | [commit #2 from Github Desktop](https://github.com/KostasMateerStudent/learn-git-milestones/commit/50b794b946733d08f9b69b9d72487270eee0cc35)
 2c | Full path to your working directory | /Users/kostasmateer/Sites/critical-web-design/learn-git-milestones
 2d | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/KostasMateerStudent/learn-git-milestones/commit/ce866df95f633a19ee07e03e949f3730964753c6)
-2e | 3rd Favorite emoji |
+2e | 3rd Favorite emoji | 😊
 2f | Link to `commit #4 from Atom` |
 3a | Link to `my-awesome-project` github.com repo page |
 4a | Link to `my-awesome-project` github.io "project site" |
