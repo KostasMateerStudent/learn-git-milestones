@@ -279,9 +279,9 @@ Item # | Description | Completed
 2c | Full path to your working directory | /Users/kostasmateer/Sites/critical-web-design/learn-git-milestones
 2d | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/KostasMateerStudent/learn-git-milestones/commit/ce866df95f633a19ee07e03e949f3730964753c6)
 2e | 3rd Favorite emoji | 😊
-2f | Link to `commit #4 from Atom` |
-3a | Link to `my-awesome-project` github.com repo page |
-4a | Link to `my-awesome-project` github.io "project site" |
+2f | Link to `commit #4 from Atom` | [commit #4 from Atom](https://github.com/KostasMateerStudent/learn-git-milestones/commit/63b587e6cb50b25042223d9dc86f93f467f95761)
+3a | Link to `my-awesome-project` github.com repo page | [link to `my-awesome-project`](https://github.com/KostasMateerStudent/my-awesome-project)
+4a | Link to `my-awesome-project` github.io "project site" |[link to `my-awesome-project` website](https://kostasmateerstudent.github.io/my-awesome-project/)
 
 
 
